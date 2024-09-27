@@ -1,0 +1,3 @@
+Na LGPD, os dados pessoais são qualquer informação que possa identificar uma pessoa, como nome e CPF. Dados sigilosos são informações que devem ser mantidas em segredo, como dados bancários ou médicos. Dados sensíveis são um tipo especial de dado pessoal que revela características íntimas, como origem racial, convicções religiosas, ou dados sobre saúde e vida sexual. Estes dados requerem maior proteção devido ao seu caráter delicado.
+
+Um diagrama de banco de dados é um gráfico que mostra tabelas, colunas e relacionamentos dentro de um banco de dado
